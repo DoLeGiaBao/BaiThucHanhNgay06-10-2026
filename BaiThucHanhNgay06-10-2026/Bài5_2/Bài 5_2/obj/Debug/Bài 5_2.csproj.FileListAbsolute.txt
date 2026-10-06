@@ -1,0 +1,9 @@
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_2\Bài 5_2\obj\Debug\Bài 5_2.csproj.AssemblyReference.cache
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_2\Bài 5_2\obj\Debug\Bài_5_2.Properties.Resources.resources
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_2\Bài 5_2\obj\Debug\Bài 5_2.csproj.GenerateResource.cache
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_2\Bài 5_2\obj\Debug\Bài 5_2.csproj.CoreCompileInputs.cache
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_2\Bài 5_2\bin\Debug\Bài 5_2.exe.config
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_2\Bài 5_2\bin\Debug\Bài 5_2.exe
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_2\Bài 5_2\bin\Debug\Bài 5_2.pdb
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_2\Bài 5_2\obj\Debug\Bài 5_2.exe
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_2\Bài 5_2\obj\Debug\Bài 5_2.pdb

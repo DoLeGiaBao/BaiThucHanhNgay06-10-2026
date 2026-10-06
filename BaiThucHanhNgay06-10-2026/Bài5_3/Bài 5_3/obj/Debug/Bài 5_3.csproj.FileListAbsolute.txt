@@ -1,0 +1,18 @@
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_3\Bài 5_3\obj\Debug\Bài 5_3.csproj.AssemblyReference.cache
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_3\Bài 5_3\obj\Debug\Bài_5_3.Properties.Resources.resources
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_3\Bài 5_3\obj\Debug\Bài 5_3.csproj.GenerateResource.cache
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_3\Bài 5_3\obj\Debug\Bài 5_3.csproj.CoreCompileInputs.cache
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_3\Bài 5_3\bin\Debug\Bài 5_3.exe.config
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_3\Bài 5_3\bin\Debug\Bài 5_3.exe
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_3\Bài 5_3\bin\Debug\Bài 5_3.pdb
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_3\Bài 5_3\obj\Debug\Bài 5_3.exe
+C:\Users\bullshop\OneDrive\Desktop\TH 6-10\Bài 5_3\Bài 5_3\obj\Debug\Bài 5_3.pdb
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bài5_3\Bài 5_3\bin\Debug\Bài 5_3.exe.config
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bài5_3\Bài 5_3\bin\Debug\Bài 5_3.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bài5_3\Bài 5_3\bin\Debug\Bài 5_3.pdb
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bài5_3\Bài 5_3\obj\Debug\Bài 5_3.csproj.AssemblyReference.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bài5_3\Bài 5_3\obj\Debug\Bài_5_3.Properties.Resources.resources
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bài5_3\Bài 5_3\obj\Debug\Bài 5_3.csproj.GenerateResource.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bài5_3\Bài 5_3\obj\Debug\Bài 5_3.csproj.CoreCompileInputs.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bài5_3\Bài 5_3\obj\Debug\Bài 5_3.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bài5_3\Bài 5_3\obj\Debug\Bài 5_3.pdb

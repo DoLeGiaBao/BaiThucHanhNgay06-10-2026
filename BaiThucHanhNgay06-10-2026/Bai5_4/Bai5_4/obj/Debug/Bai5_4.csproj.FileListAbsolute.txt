@@ -1,0 +1,10 @@
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\bin\Debug\Bai5_4.exe.config
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\bin\Debug\Bai5_4.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\bin\Debug\Bai5_4.pdb
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\obj\Debug\Bai5_4.csproj.AssemblyReference.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\obj\Debug\Bai5_4.Form1.resources
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\obj\Debug\Bai5_4.Properties.Resources.resources
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\obj\Debug\Bai5_4.csproj.GenerateResource.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\obj\Debug\Bai5_4.csproj.CoreCompileInputs.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\obj\Debug\Bai5_4.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiThucHanhNgay06-10-2026\Bai5_4\Bai5_4\obj\Debug\Bai5_4.pdb
